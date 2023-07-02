@@ -242,7 +242,7 @@ class _InputPageState extends State<InputPage> {
                 ),
               );
             },
-            buttonTitle: 'CALCULATE',
+            buttonTitle: 'CALCULATE YOUR BMI',
           ),
         ],
       ),
