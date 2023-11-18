@@ -1,4 +1,4 @@
-# bmi_calculator_ui-ux
+# bmi_calculator_ui
 This repository contains a simple BMI (Body Mass Index) Calculator app that I built from scratch using Flutter. The app allows users to calculate their BMI based on their height and weight inputs. This README file provides an overview of the project and includes instructions on how to set it up.
 
 # Features
